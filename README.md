@@ -14,10 +14,7 @@ I'm CHHUB RACHHEN, a passionate Front-end Developer who loves building awesome w
 ![](https://nirzak-streak-stats.vercel.app/?user=chhubrachhen276&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chhubrachhen276&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chhubrachhen276&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
 [![](https://visitcount.itsvg.in/api?id=chhubrachhen276&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
