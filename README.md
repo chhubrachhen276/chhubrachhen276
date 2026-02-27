@@ -1,9 +1,10 @@
 ## Hi, i'm CHHUB RACHHEN
 
 # 💫 About Me:
-I'm CHHUB RACHHEN, a passionate Front-end Developer who loves building awesome web applications. I also run a https://www.youtube.com/@eflexschoolcode where I teach web coding tutorials to help others learn and grow in web development.
-
-
+I'm CHHUB RACHHEN, a passionate Front-end Developer who loves building awesome web applications. I also run a https://www.youtube.com/@eflexschoolcode where I teach web coding tutorials to help others learn and grow in web development.</br>
+👩🏻‍🎓 Studied Computer Science at the University of Cambodia, Cambodia </br>
+🎨 Making videos about Computer Science, tech, and productivity on YouTube</br>
+🌷 #learninginpublic in my digital garden</br>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@ra.rachhen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/e_flexcode) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@eflexcode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@eflexschoolcode) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chhubrachhen2024@gmail.com) 
 
